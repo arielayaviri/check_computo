@@ -1,6 +1,6 @@
-#Script para comparar los resultados de computo vs las imagenes de Actas.
+# Script para comparar los resultados de computo vs las imagenes de Actas.
 
-#Requirements
+# Requirements
 - OpenCV
 - pandas
 - xlrd >= 1.0.0
